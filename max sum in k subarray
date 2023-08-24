@@ -3,6 +3,9 @@ using namespace std;
 
 #define ll long long int
 
+///where i can use slidng window techniq here are some hints
+////array,string,subarray,substring,largest sum,maximum sum,minimum sum
+
 ///the first function is the brute force of the sliding 
 //window technique
 
